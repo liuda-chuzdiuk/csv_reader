@@ -100,6 +100,6 @@ report = f"1. The windiest month in Kharkiv was {wind_month} with average wind s
          f"5. The warmest day in Kharkiv was {warm_day} with average temperature " \
          f"{average_max_temperature_per_day} (degrees Celsius).\n" \
          f"6. The rainiest week in Kharkiv was in period from {first_day_of_rainy_week} to {last_day_of_rainy_week} " \
-         f"and amount of precipitation was {max_amount_of_precipitation_per_week} (millimeters)"
+         f"and amount of precipitation was {max_amount_of_precipitation_per_week} (millimeters)."
 
 print(report)
