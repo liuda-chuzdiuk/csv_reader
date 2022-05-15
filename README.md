@@ -1,6 +1,7 @@
 CSV-reader
+
 Data provided by the site rp5.ua
-## Instalation
+## Installation
 Python3 must be already installed
 
 ```shell
